@@ -4,9 +4,9 @@
 
 # To install Docker on Raspberry Pi 4, we need these environment:
 
-•	A Raspberry Pi 4 single-board computer
-•	Internet connectivity on the Raspberry Pi 4.
-•	A micro SD card with the Raspberry Pi OS image on it.
+> A Raspberry Pi 4 single-board computer
+> Internet connectivity on the Raspberry Pi 4.
+> A micro SD card with the Raspberry Pi OS image on it.
 
 Before install Docker on our Raspberry Pi OS, we must update all the packages on our Raspberry Pi OS. 
 First we need to update APT package repository cache with the following command
